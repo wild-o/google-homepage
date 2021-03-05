@@ -1,0 +1,31 @@
+div{
+    position: relative;
+    left: 800px;
+    top: 280px;
+    
+    
+}
+
+.searchBar{
+    box-sizing: content-box;
+    display:flex;
+    float: none;
+    line-height: normal;
+    position: static;
+    z-index: auto;
+    background-color: transparent;
+    width: 527px;
+    height: 34px;
+    margin: 0;
+    margin-top: 10px;
+    
+}
+
+.googleLogo{
+    box-sizing: content-box;
+    display: inline;
+    float: none;
+    line-height: normal;
+    position: static;
+    z-index: auto;
+}
